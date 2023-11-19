@@ -1,0 +1,12 @@
+# own analysis of metadata from Gefcom 2014 sites, from plant location from Carla Goncalves Thesis
+site_index,site_name,lat,lon
+1,snowtown_1,-33.55,138.10
+2,snowtown_2,-33.75,138.10
+3,hornsdale,-33.05,138.55
+4,starfish_hill,-35.55,138.10
+5,portfairy,-38.35,142.00
+6,dunkeld,-37.70,142.60
+7,mount_fians,-37.85,143.00
+8,st_arnaud,-36.45,143.35
+9,canberra_w,-34.55,148.90
+10,canberra_e,-34.86,149.40 
